@@ -1,0 +1,40 @@
+body {
+  margin-top: 60px;
+}
+#header h1, #header h2, #header h3 {
+  text-align: center;
+}
+#header img {
+  margin: 0px 0px 60px 0px;
+}
+#header h1 {
+  font-size: 26px;
+}
+#header h2, #header h3 {
+  margin: 30px 0px;
+  font-size: 22px;
+}
+#header h4 {
+  font-size: 18px;
+  text-align: center;
+}
+#header #input-form {
+  margin-top: 60px;
+  text-align: center;
+}
+#header #input-form input[type="email"] {
+  width: 390px;
+  padding: 16px 14px;
+  display: inline;
+  font-size: 18px;
+}
+#header #input-form input[type="submit"] {
+  padding: 18px 14px;
+  font-size: 15px;
+}
+.one-third {
+  margin-top: 80px;
+}
+#footer {
+  margin: 50px 0px 30px 0px;
+}
