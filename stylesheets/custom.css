@@ -1,8 +1,21 @@
 body {
   margin-top: 60px;
 }
-#header h1, #header h2, #header h3 {
+#header-wrapper {
+  background-color: #3a3a3a;
+  padding: 30px 0px;
+  margin-top: 20px;
+}
+#header {
+  position: relative;
+  width: 960px;
+  margin: 0 auto;
+  padding: 0;
+  color: #fff;
+}
+#header h1, #header h2, #header h3, #header h4 {
   text-align: center;
+  color: #fff;
 }
 #header img {
   margin: 0px 0px 60px 0px;
@@ -16,7 +29,6 @@ body {
 }
 #header h4 {
   font-size: 18px;
-  text-align: center;
 }
 #header #input-form {
   margin-top: 60px;
